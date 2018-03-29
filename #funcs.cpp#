@@ -3,8 +3,8 @@
 #include <cctype>
 #include <sstream>
 #include <string>
-#include <fstream>
 #include <cstdlib>
+#include <fstream>
 
 
 std::string removeLeadingSpaces(std::string line){
