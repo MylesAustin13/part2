@@ -2,8 +2,10 @@
 #include "funcs.h"
 #include <cctype>
 #include <sstream>
-#include <fstream>
 #include <string>
+#include <fstream>
+#include <cstdlib>
+
 
 std::string removeLeadingSpaces(std::string line){
   std::string result = "";
